@@ -1,2 +1,3 @@
 # gRPC-project
-Proyek gRPC untuk mata kuliah Arsitektur dan Integrasi Sistem 2022
+
+Project gRPC untuk final project mata kuliah Arsitektur dan Integrasi Sistem 2022
